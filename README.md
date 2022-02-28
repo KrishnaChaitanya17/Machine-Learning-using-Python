@@ -28,3 +28,5 @@
 14.Association Rule Mining
 
 15.Collaborative Filtering
+
+16.LR,Ridge_Regression,Lasso_Regression & Logistic_Regression
